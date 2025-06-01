@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-I'm **Vincent Liber**, a recent graduate from Yuan Ze University with a passion for developing practical and scalable machine learning and AI-driven solutions. Specializing in predictive analytics, computer vision, and intelligent automation, I thrive on turning complex data into actionable insights.
+I'm **Sherzod Omar Hakimov**, a recent graduate from Yuan Ze University with a passion for developing practical and scalable machine learning and AI-driven solutions. Specializing in predictive analytics, computer vision, and intelligent automation, I thrive on turning complex data into actionable insights.
 
-📍 Based in Taipei City, Taiwan | 🎓 Bachelor's in Engineering (Artificial Intelligence) at Yuan Ze University (2021–2025)
+📍 Based in Taoyuan City, Taiwan | 🎓 Bachelor's in Engineering (Artificial Intelligence) at Yuan Ze University (2021–2025)
 
 ---
 
@@ -58,21 +58,10 @@ I'm **Vincent Liber**, a recent graduate from Yuan Ze University with a passion 
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/yourusername">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Vincent's GitHub stats"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</a>
-
----
-
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/omarhakimov)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omarabduhakim1@gmail.com)
 
 ---
 
